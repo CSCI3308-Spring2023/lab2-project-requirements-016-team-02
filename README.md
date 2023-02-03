@@ -20,7 +20,7 @@ git push
 ```
 
 ## Team members
-- pwmagro
-- PiCake314
-- edovman
-- AlexL51
+- Peter Magro: pwmagro
+- Ali Almutawa: PiCake314
+- Katrina Smith: edovman
+- Alex Ludwigson: AlexL51
