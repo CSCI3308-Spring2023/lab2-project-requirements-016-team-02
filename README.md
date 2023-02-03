@@ -18,3 +18,9 @@ git add submission
 git commit -m "add team document"
 git push
 ```
+
+## Team members
+- pwmagro
+- PiCake314
+- edovman
+- AlexL51
